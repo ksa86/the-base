@@ -7,3 +7,4 @@ THE BASE homeworks
 (+) hw4 - bufReader / bufWriter
 (+) hw5 - shell
 (+) hw6 - ThreadPool
+(+) hw7 - hangman
